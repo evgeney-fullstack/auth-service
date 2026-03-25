@@ -1,1 +1,6 @@
 *.env, vscode
+*certs
+
+
+# удалить во время реализации
+*internal/servers/grpc
